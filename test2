@@ -1,25 +1,2 @@
 {
   "newbuildId": 6858,
-  "flats": [
-    {
-      "areaMin": 81.1,
-      "roomCount": "3",
-      "floor": 1,
-      "areaPrice": null,
-      "areaPriceUsd": 770,
-      "fullAreaPrice": null,
-      "fullAreaPriceUsd": null,
-      "planType": null,
-      "accessibility": 1,
-      "planIdDev": "3К1*",
-      "sectionNumber": "1, дом 8",
-      "flatNumber": "1",
-      "photoLinks": [
-        "https://kyivskyi.in.ua/wp-content/themes/intergal2/img/kvart/b8-1_2/1/3k1.jpg"
-      ]
-    }
-  ],
-  "parkings": [],
-  "offices": [],
-  "larders": []
-}
